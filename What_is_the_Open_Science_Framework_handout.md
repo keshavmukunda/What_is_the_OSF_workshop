@@ -10,7 +10,8 @@ Examples: a simple one is at <https://osf.io/n7263/> and a larger more complex o
 
 **Now let's create a project!** Start by creating an OSF account for yourself: sign up at <https://osf.io/>
 
-**Create a project:** in the Home 'Dashboard', click ![Create New Project](https://github.com/keshavmukunda/What_is_the_OSF_workshop/blob/main/create_new_project.jpg) 
+**Create a project:** in the Home 'Dashboard', click ![Create New Project](https://github.com/keshavmukunda/What_is_the_OSF_workshop/blob/main/create_new_project.jpg){width=50%} 
+
 In the storage location options, select _Canada_ (for this workshop, I will create the project and add all of you as contributors).
 
 ![Create New Project](https://github.com/keshavmukunda/What_is_the_OSF_workshop/blob/main/contributors.jpg) **Add contributors from the left-hand menu**: customize access levels (Administrator, Read+Write, Read) for different members of the project, for different components of the project.
