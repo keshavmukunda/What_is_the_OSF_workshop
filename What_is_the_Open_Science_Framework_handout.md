@@ -10,7 +10,7 @@ Examples: a simple one is at <https://osf.io/n7263/> and a larger more complex o
 
 **Now let's create a project!** Start by creating an OSF account for yourself: sign up at <https://osf.io/>
 
-**Create a project:** in the Home 'Dashboard', click ![Create New Project](https://github.com/keshavmukunda/What_is_the_OSF_workshop/blob/main/create_new_project.jpg){width=50%} 
+**Create a project:** in the Home 'Dashboard', click ![Create New Project](https://github.com/keshavmukunda/What_is_the_OSF_workshop/blob/main/create_new_project.jpg)
 
 In the storage location options, select _Canada_ (for this workshop, I will create the project and add all of you as contributors).
 
@@ -26,7 +26,7 @@ In the storage location options, select _Canada_ (for this workshop, I will crea
 
 **Wiki:** add content directly to OSF project using Markdown syntax. Collaborative editor so more than one person can add content simultaneously. Wiki also has version tracking.
 
-**Files:** upload and store directly with OSF or use different storage add-ons (details below). OSF currently has a 5GB storage limit for private projects, and 50GB for public projects (this distinction is described later). Note: the OSF storage location cannot be changed after you've created a project, so select Canadian storage at the start (see 'Create a project' above). Plain text file types (e.g., txt, R, py) can be edited within OSF. Other proprietary formats (._docx_ or ._jpeg_ for example) cannot be edited within OSF; use other storage 'add-ons' for these (see below). Versions are tracked by saving full files (not like Git)
+**Files:** upload and store directly with OSF or use different storage add-ons (details below). OSF currently has a 5GB storage limit for private projects, and 50GB for public projects (this distinction is described later). Note: the OSF storage location cannot be changed after you've created a project, so select Canadian storage at the start (see 'Create a project' above). Plain text file types (e.g., 'txt', R, py) can be edited within OSF. Other proprietary formats (._docx_ or ._jpeg_ for example) cannot be edited within OSF; use other storage 'add-ons' for these (see below). Versions are tracked by saving full files (not like Git)
 
 **Add-ons:** connect external storage, including large files stored elsewhere. This is a two-way interaction: file changes made in OSF will be mirrored in the external storage and vice versa.
 
