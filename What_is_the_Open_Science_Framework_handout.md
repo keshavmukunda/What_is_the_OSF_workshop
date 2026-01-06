@@ -47,7 +47,7 @@ Every item (files, components, etc.) in OSF has a unique identifier, and can be 
 **Registration:** A public snapshot or fixed archive of your project at a specific moment in time, which could be cited. Registration of a project increases research accountability (e.g., hypothesis testing vs ‘p-hacking’). Registered version cannot be edited or deleted, but the original project can (if you withdraw a registration then the content is deleted but not the metadata). Create registrations for the same project at different times, and embargo a registered project for a length of time before it becomes public.
 
 
-**Delete a project or component:** on the left menu, click 'Settings' and then  <img src="[https://github.com/favicon.ico](https://github.com/keshavmukunda/What_is_the_OSF_workshop/blob/main/delete_project.jpg)" width="48">
+**Delete a project or component:** on the left menu, click 'Settings' and then ![Delete project](https://github.com/keshavmukunda/What_is_the_OSF_workshop/blob/main/delete_project.jpg)
 
 
 This is an irreversible step, and also deletes all sub-components (but not anything above in the project hierarchy). Make sure you really want to do this! OSF makes you type a word or phrase to confirm.
