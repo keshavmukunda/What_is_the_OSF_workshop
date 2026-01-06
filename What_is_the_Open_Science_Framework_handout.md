@@ -10,7 +10,7 @@ Examples: a simple one is at <https://osf.io/n7263/> and a larger more complex o
 
 **Now let's create a project!** Start by creating an OSF account for yourself: sign up at <https://osf.io/>
 
-**Create a project:** in the Home 'Dashboard', click ![Create New Project](https://github.com/keshavmukunda/What_is_the_OSF_workshop/blob/main/create_new_project.jpg)
+**Create a project:** in the Home 'Dashboard', click  ![Create New Project](https://github.com/keshavmukunda/What_is_the_OSF_workshop/blob/main/create_new_project.jpg)
 
 In the storage location options, select _Canada_ (for this workshop, I will create the project and add all of you as contributors).
 
@@ -34,14 +34,14 @@ In the storage location options, select _Canada_ (for this workshop, I will crea
 
 Different components (including nested components) can be public or private. Anything public is readable, and associated files are downloadable. You can get a DOI (in the ‘Metadata’ panel) for each project, component, or registration (see below) if you make it public. You also have the option to add a license to your project. 
 
-
 Every item (files, components, etc.) in OSF has a unique identifier, and can be cited by others; most popular citation styles are displayed but others are available.
 
-**Copying project or component:**
+**Duplicate a project or component:**
+![Duplicate Project](https://github.com/keshavmukunda/What_is_the_OSF_workshop/blob/main/duplicate_project.jpg)
+‘Duplicate project (with files)’ creates a clone or ‘fork’ of the original project and all sub-components, including all files in OSF storage only (not files in the add-ons). You can see who has duplicated a project only if they make their project public (click ‘View duplicates’).
+‘Duplicate project (structure only)’ creates a new project from the original structure and text, with no files or add-ons transferred. Example templates that may be useful: <https://help.osf.io/article/585-templates-getting-started-on-osf-faster-and-easier>
 
-'Fork' - create a clone of the original OSF project (or component) including all files. You can see who's forked your content but if they chose to take their fork private, you can't see inside their project.
 
-'Template' - find a public OSF project (or component) and duplicate the structure, with no files or wiki content transferred.
 
 **Registration:** fixed archive of your OSF project (or only parts of your project) at a specific moment in time. Registered version cannot be edited, but the original project can. Can create registrations for same project at different times. Can embargo a registered project for a length of time before it becomes public.
 
